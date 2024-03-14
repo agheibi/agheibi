@@ -15,8 +15,6 @@
 
 💬 Ask me about **PHP, Laravel, Node.js, express, Nest.js... or anything [here](https://github.com/agheibi/agheibi/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
  
 <div align="center"> 
