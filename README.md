@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Georgia 🇬🇪</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <br/>
 
@@ -35,8 +35,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,bootstrap,html,css,jquery,vscode,phpstorm,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,redis,rabbitmq,firebase,mongodb,elasticsearch,postgresql,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,bootstrap,html,css,jquery,vscode,phpstorm,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,py,fastapi,django" />
+    <img src="https://skillicons.dev/icons?i=redis,rabbitmq,kafka,firebase,mongodb,elasticsearch,postgresql,mysql" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ubuntu" />
     <br>
 </div>
 
