@@ -10,10 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a crypto casino**
+ 🔭 I'm Expert in **PHP**, **Node.js**, **React** and **Vue**
  
 
-💬 Ask me about **PHP, Laravel, Node.js, express, Nest.js... or anything [here](https://github.com/agheibi/agheibi/issues)**
+💬 Ask me about **PHP, Laravel, Node.js, express, Nest.js, React, Vue and ... or anything [here](https://github.com/agheibi/agheibi/issues)**
 
  </div>
  
